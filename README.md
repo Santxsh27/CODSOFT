@@ -1,6 +1,6 @@
 # CodSoft Internship - UI/UX Design Projects
 
-This repository showcases the UI/UX design projects I worked on during my internship at CodSoft. Each project highlights my design process and solutions tailored to real-world applications, including restaurant menus, e-commerce, and task management.
+This repository showcases the UI/UX design projects I worked on during my internship at CodSoft. Each project highlights my design process and solutions tailored to real-world applications, including restaurant menus, e-commerce, and user authentication.
 
 ## Projects
 
@@ -18,11 +18,11 @@ This repository showcases the UI/UX design projects I worked on during my intern
 - Key Features: Clean user flow from product browsing to checkout, clear product presentation, and minimalistic cart design.
 - Link to Design: [View Design](#)
 
-### 3. Task 1 (UI/UX Challenge)
-**Description**: A design solution developed for Task 1 of the CodSoft internship. This project allowed me to explore innovative approaches to user interaction and enhance my problem-solving skills.
+### 3. Seamless Sign-In Page (Task 1)
+**Description**: A seamless and user-friendly sign-in page designed for Task 1 of the CodSoft internship. The focus was on creating an effortless sign-in experience with a clean interface and optimized user flow.
 
 - Tools: Figma
-- Key Features: UX enhancements focusing on user interaction and experience improvements.
+- Key Features: Simple and secure sign-in process, minimalistic design, and user-centered layout.
 - Link to Design: [View Design](#)
 
 ## Conclusion
